@@ -15,5 +15,5 @@ bonus_usuario = float(input("Digite o seu bonus: "))
 valor_bonus =  CONSTANTE_BONUS + salario_usuario * bonus_usuario
 
 # 5) Imprime a mensagem.
-print(f"O usuario {nome_usuario} possui o bonus de {valor_bonus} reais")
+print(f"O usuario {nome_usuario} possui o bonus de {valor_bonus} reais.")
 
